@@ -30,7 +30,7 @@ h1{
 p{
   color: white;
   position: absolute;
-  top: 50%;
+  top: 38%;
   background-image: linear-gradient(to top, rgba(0,0,0,0.5), transparent);
   padding: 2em 3em;
   margin: 0;
@@ -61,7 +61,7 @@ nav a{
   display: inline-block;
   color: white;
   text-decoration: none;
-  padding: 1em;
+  padding: 0.5em;
   margin: 0;
   text-align: center;
   background-color: #78543a;
@@ -73,10 +73,10 @@ a:hover{
 }
 footer {
 background-color: rgba(81, 34, 0, 0.5);
-padding: 0.5em 0;
-background-image: url("../images/beetle-logo.svg");
+padding: 2em 0;
+background-image: url("../images/beetle-icon.svg");
 background-repeat: no-repeat;
-position:	relative;
+position:relative;
 background-size: 50px;
 background-position: center;
 }
@@ -89,46 +89,46 @@ background-position: center;
 }
 .a-ant-nest{
   display: inline-block;
-  padding: 0.25em 3em;
+  padding: 0.15em 2em;
   text-decoration: none;
   color: white;
   background-color: #a8ae98;
   border-radius: 15px;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
-  left: 8%;
-  bottom: 12%;
+  left: 6%;
+  bottom: 23%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
 .a-stag{
   display: inline-block;
-  padding: 0.25em 3em;
+  padding: 0.15em 2em;
   text-decoration: none;
   color: white;
   background-color: #a8ae98;
   border-radius: 15px;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
-  bottom: 12%;
+  bottom: 23%;
   right: 8%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
 .a-dung{
   display: inline-block;
-  padding: 0.25em 3em;
+  padding: 0.15em 2em;
   text-decoration: none;
   color: white;
   background-color: #a8ae98;
   border-radius: 15px;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
-  top: 110%;
+  top: 98%;
   right: 60%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
 .a-tortoise{
   display: inline-block;
-  padding: 0.25em 3em;
+  padding: 0.15em 2em;
   text-decoration: none;
   color: white;
   background-color: #a8ae98;
@@ -136,7 +136,7 @@ background-position: center;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
   right: 5%;
-  top: 110%;
+  top: 98%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
 div{

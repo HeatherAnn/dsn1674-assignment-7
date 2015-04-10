@@ -32,7 +32,7 @@ p{
   position: absolute;
   top: 38%;
   background-image: linear-gradient(to top, rgba(0,0,0,0.5), transparent);
-  padding: 2em 3em;
+  padding: 3.5em 3em;
   margin: 0;
   width: 100%;
 }
@@ -91,7 +91,7 @@ background-position: center;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
   left: 6%;
-  bottom: 23%;
+  bottom: 13%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
 .a-stag{
@@ -103,7 +103,7 @@ background-position: center;
   border-radius: 15px;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
-  bottom: 23%;
+  bottom: 13%;
   right: 8%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
@@ -130,7 +130,7 @@ background-position: center;
   background-image: linear-gradient(to bottom, #39833e, #6fbf44);
   position: absolute;
   right: 5%;
-  top: 98%;
+  top: 111%;
   box-shadow: 0 2px 5px rgba(0,0,0,1);
 }
 div{
@@ -146,7 +146,7 @@ div{
   clear: right;
 }
 .dung{
-  width: 100%;
+  width: 111%;
   float: right;
 }
 .tortoise{

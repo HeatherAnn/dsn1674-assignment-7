@@ -80,13 +80,7 @@ position:relative;
 background-size: 50px;
 background-position: center;
 }
-.icon{
-    width: 10%;
-    float: none;
-    position: relative;
-    text-align: center;
-    left: 45%;
-}
+
 .a-ant-nest{
   display: inline-block;
   padding: 0.15em 2em;
